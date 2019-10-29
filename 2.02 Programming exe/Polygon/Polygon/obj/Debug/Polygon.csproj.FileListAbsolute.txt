@@ -1,0 +1,7 @@
+E:\Programming2\Polygon\Polygon\obj\Debug\Polygon.csprojAssemblyReference.cache
+E:\Programming2\Polygon\Polygon\obj\Debug\Polygon.csproj.CoreCompileInputs.cache
+E:\Programming2\Polygon\Polygon\bin\Debug\Polygon.exe.config
+E:\Programming2\Polygon\Polygon\bin\Debug\Polygon.exe
+E:\Programming2\Polygon\Polygon\bin\Debug\Polygon.pdb
+E:\Programming2\Polygon\Polygon\obj\Debug\Polygon.exe
+E:\Programming2\Polygon\Polygon\obj\Debug\Polygon.pdb

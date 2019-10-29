@@ -1,0 +1,10 @@
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\bin\Debug\farmAnimals1.0.exe.config
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\bin\Debug\farmAnimals1.0.exe
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\bin\Debug\farmAnimals1.0.pdb
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1.0.csprojAssemblyReference.cache
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1._0.Form1.resources
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1._0.Properties.Resources.resources
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1.0.csproj.GenerateResource.cache
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1.0.csproj.CoreCompileInputs.cache
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1.0.exe
+E:\Programming2\farmAnimals1.0\farmAnimals1.0\obj\Debug\farmAnimals1.0.pdb
