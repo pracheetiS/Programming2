@@ -1,0 +1,7 @@
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\bin\Debug\Unit2Practice.exe.config
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\bin\Debug\Unit2Practice.exe
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\bin\Debug\Unit2Practice.pdb
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\obj\Debug\Unit2Practice.csprojAssemblyReference.cache
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\obj\Debug\Unit2Practice.csproj.CoreCompileInputs.cache
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\obj\Debug\Unit2Practice.exe
+C:\Users\Pracheeti\Documents\programmingTwo\Unit2Practice\Unit2Practice\obj\Debug\Unit2Practice.pdb
