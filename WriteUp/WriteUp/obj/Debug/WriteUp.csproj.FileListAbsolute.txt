@@ -1,0 +1,7 @@
+D:\Programming2\WriteUp\WriteUp\bin\Debug\WriteUp.exe.config
+D:\Programming2\WriteUp\WriteUp\bin\Debug\WriteUp.exe
+D:\Programming2\WriteUp\WriteUp\bin\Debug\WriteUp.pdb
+D:\Programming2\WriteUp\WriteUp\obj\Debug\WriteUp.csprojAssemblyReference.cache
+D:\Programming2\WriteUp\WriteUp\obj\Debug\WriteUp.csproj.CoreCompileInputs.cache
+D:\Programming2\WriteUp\WriteUp\obj\Debug\WriteUp.exe
+D:\Programming2\WriteUp\WriteUp\obj\Debug\WriteUp.pdb
