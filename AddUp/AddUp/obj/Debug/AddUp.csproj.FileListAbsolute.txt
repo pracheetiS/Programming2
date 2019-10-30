@@ -1,0 +1,7 @@
+D:\Programming2\AddUp\AddUp\bin\Debug\AddUp.exe.config
+D:\Programming2\AddUp\AddUp\bin\Debug\AddUp.exe
+D:\Programming2\AddUp\AddUp\bin\Debug\AddUp.pdb
+D:\Programming2\AddUp\AddUp\obj\Debug\AddUp.csprojAssemblyReference.cache
+D:\Programming2\AddUp\AddUp\obj\Debug\AddUp.csproj.CoreCompileInputs.cache
+D:\Programming2\AddUp\AddUp\obj\Debug\AddUp.exe
+D:\Programming2\AddUp\AddUp\obj\Debug\AddUp.pdb
