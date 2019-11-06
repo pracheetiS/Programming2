@@ -1,0 +1,7 @@
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\bin\Debug\HalloweenActivityArrays.exe.config
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\bin\Debug\HalloweenActivityArrays.exe
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\bin\Debug\HalloweenActivityArrays.pdb
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\obj\Debug\HalloweenActivityArrays.csprojAssemblyReference.cache
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\obj\Debug\HalloweenActivityArrays.csproj.CoreCompileInputs.cache
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\obj\Debug\HalloweenActivityArrays.exe
+D:\Programming2\Quarter2\HalloweenActivityArrays\HalloweenActivityArrays\obj\Debug\HalloweenActivityArrays.pdb
