@@ -1,0 +1,10 @@
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\bin\Debug\sortingAndSearchingProj.exe.config
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\bin\Debug\sortingAndSearchingProj.exe
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\bin\Debug\sortingAndSearchingProj.pdb
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.Form1.resources
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.Properties.Resources.resources
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.exe
+F:\Programming2\Quarter2\sortingAndSearchingProj\sortingAndSearchingProj\obj\Debug\sortingAndSearchingProj.pdb

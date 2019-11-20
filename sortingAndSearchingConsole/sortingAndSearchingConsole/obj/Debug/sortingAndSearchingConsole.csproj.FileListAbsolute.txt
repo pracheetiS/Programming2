@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\bin\Debug\sortingAndSearchingConsole.exe.config
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\bin\Debug\sortingAndSearchingConsole.exe
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\bin\Debug\sortingAndSearchingConsole.pdb
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\obj\Debug\sortingAndSearchingConsole.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\obj\Debug\sortingAndSearchingConsole.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\obj\Debug\sortingAndSearchingConsole.exe
+F:\Programming2\Quarter2\sortingAndSearchingConsole\sortingAndSearchingConsole\obj\Debug\sortingAndSearchingConsole.pdb
