@@ -1,0 +1,18 @@
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\bin\Debug\MarathonTraining.exe
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\bin\Debug\MarathonTraining.pdb
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\obj\x86\Debug\MarathonTraining.Form1.resources
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\obj\x86\Debug\MarathonTraining.Properties.Resources.resources
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\obj\x86\Debug\MarathonTraining.csproj.GenerateResource.Cache
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\obj\x86\Debug\MarathonTraining.exe
+C:\Users\Barbara\documents\visual studio 2010\Projects\MarathonTraining\MarathonTraining\obj\x86\Debug\MarathonTraining.pdb
+C:\Users\Barbara\Documents\Visual Studio 2010\Projects\MarathonTrainingStudent\MarathonTraining\obj\x86\Debug\MarathonTraining.exe
+C:\Users\Barbara\Documents\Visual Studio 2010\Projects\MarathonTrainingStudent\MarathonTraining\obj\x86\Debug\MarathonTraining.pdb
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\bin\Debug\MarathonTraining.exe
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\bin\Debug\MarathonTraining.pdb
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.csprojAssemblyReference.cache
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.Form1.resources
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.Properties.Resources.resources
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.csproj.GenerateResource.cache
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.csproj.CoreCompileInputs.cache
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.exe
+H:\Downloads\MarathonTrainingStudent (1)\MarathonTraining\obj\x86\Debug\MarathonTraining.pdb
