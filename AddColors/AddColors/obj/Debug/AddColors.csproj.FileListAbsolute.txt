@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\AddColors\AddColors\bin\Debug\AddColors.exe.config
+F:\Programming2\Quarter2\AddColors\AddColors\bin\Debug\AddColors.exe
+F:\Programming2\Quarter2\AddColors\AddColors\bin\Debug\AddColors.pdb
+F:\Programming2\Quarter2\AddColors\AddColors\obj\Debug\AddColors.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\AddColors\AddColors\obj\Debug\AddColors.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\AddColors\AddColors\obj\Debug\AddColors.exe
+F:\Programming2\Quarter2\AddColors\AddColors\obj\Debug\AddColors.pdb
