@@ -1,0 +1,10 @@
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\bin\Debug\removeUnlucky.exe.config
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\bin\Debug\removeUnlucky.exe
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\bin\Debug\removeUnlucky.pdb
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.Form1.resources
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.Properties.Resources.resources
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.exe
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.pdb
+F:\Programming2\Quarter2\removeUnlucky\removeUnlucky\obj\Debug\removeUnlucky.csprojAssemblyReference.cache
