@@ -1,0 +1,10 @@
+F:\Programming2\Quarter2\wordMaker\wordMaker\bin\Debug\wordMaker.exe.config
+F:\Programming2\Quarter2\wordMaker\wordMaker\bin\Debug\wordMaker.exe
+F:\Programming2\Quarter2\wordMaker\wordMaker\bin\Debug\wordMaker.pdb
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.Form1.resources
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.Properties.Resources.resources
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.exe
+F:\Programming2\Quarter2\wordMaker\wordMaker\obj\Debug\wordMaker.pdb
