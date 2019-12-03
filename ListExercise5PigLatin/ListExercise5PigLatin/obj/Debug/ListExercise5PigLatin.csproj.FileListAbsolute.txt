@@ -1,0 +1,10 @@
+H:\ListExercise5PigLatin\ListExercise5PigLatin\bin\Debug\ListExercise5PigLatin.exe.config
+H:\ListExercise5PigLatin\ListExercise5PigLatin\bin\Debug\ListExercise5PigLatin.exe
+H:\ListExercise5PigLatin\ListExercise5PigLatin\bin\Debug\ListExercise5PigLatin.pdb
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.csprojAssemblyReference.cache
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.Form1.resources
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.Properties.Resources.resources
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.csproj.GenerateResource.cache
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.csproj.CoreCompileInputs.cache
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.exe
+H:\ListExercise5PigLatin\ListExercise5PigLatin\obj\Debug\ListExercise5PigLatin.pdb
