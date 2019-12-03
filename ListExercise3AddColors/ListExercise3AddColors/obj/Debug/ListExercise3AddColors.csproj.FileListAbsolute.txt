@@ -1,0 +1,7 @@
+H:\ListExercise3AddColors\ListExercise3AddColors\bin\Debug\ListExercise3AddColors.exe.config
+H:\ListExercise3AddColors\ListExercise3AddColors\bin\Debug\ListExercise3AddColors.exe
+H:\ListExercise3AddColors\ListExercise3AddColors\bin\Debug\ListExercise3AddColors.pdb
+H:\ListExercise3AddColors\ListExercise3AddColors\obj\Debug\ListExercise3AddColors.csprojAssemblyReference.cache
+H:\ListExercise3AddColors\ListExercise3AddColors\obj\Debug\ListExercise3AddColors.csproj.CoreCompileInputs.cache
+H:\ListExercise3AddColors\ListExercise3AddColors\obj\Debug\ListExercise3AddColors.exe
+H:\ListExercise3AddColors\ListExercise3AddColors\obj\Debug\ListExercise3AddColors.pdb
