@@ -1,0 +1,14 @@
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.exe.config
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.exe
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.pdb
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.csprojAssemblyReference.cache
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.csproj.CoreCompileInputs.cache
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.exe
+H:\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.pdb
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.exe.config
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.exe
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\bin\Debug\AnimalLedgerButCooler.pdb
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.csprojAssemblyReference.cache
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.csproj.CoreCompileInputs.cache
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.exe
+\\H0441SFS03\Home$\Students\6915988297\Desktop\AnimalLedgerButCooler\AnimalLedgerButCooler\obj\Debug\AnimalLedgerButCooler.pdb
