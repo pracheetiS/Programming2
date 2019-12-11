@@ -1,0 +1,10 @@
+H:\ContactsMaanager\ContactsMaanager\bin\Debug\ContactsMaanager.exe.config
+H:\ContactsMaanager\ContactsMaanager\bin\Debug\ContactsMaanager.exe
+H:\ContactsMaanager\ContactsMaanager\bin\Debug\ContactsMaanager.pdb
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.csprojAssemblyReference.cache
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.Form1.resources
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.Properties.Resources.resources
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.csproj.GenerateResource.cache
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.csproj.CoreCompileInputs.cache
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.exe
+H:\ContactsMaanager\ContactsMaanager\obj\Debug\ContactsMaanager.pdb
