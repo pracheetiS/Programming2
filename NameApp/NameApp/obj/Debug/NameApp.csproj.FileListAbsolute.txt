@@ -1,0 +1,14 @@
+E:\Programming II\NameApp\NameApp\bin\Debug\NameApp.exe.config
+E:\Programming II\NameApp\NameApp\bin\Debug\NameApp.exe
+E:\Programming II\NameApp\NameApp\bin\Debug\NameApp.pdb
+E:\Programming II\NameApp\NameApp\obj\Debug\NameApp.csprojAssemblyReference.cache
+E:\Programming II\NameApp\NameApp\obj\Debug\NameApp.csproj.CoreCompileInputs.cache
+E:\Programming II\NameApp\NameApp\obj\Debug\NameApp.exe
+E:\Programming II\NameApp\NameApp\obj\Debug\NameApp.pdb
+D:\Programming II\NameApp\NameApp\bin\Debug\NameApp.exe.config
+D:\Programming II\NameApp\NameApp\bin\Debug\NameApp.exe
+D:\Programming II\NameApp\NameApp\bin\Debug\NameApp.pdb
+D:\Programming II\NameApp\NameApp\obj\Debug\NameApp.csprojAssemblyReference.cache
+D:\Programming II\NameApp\NameApp\obj\Debug\NameApp.csproj.CoreCompileInputs.cache
+D:\Programming II\NameApp\NameApp\obj\Debug\NameApp.exe
+D:\Programming II\NameApp\NameApp\obj\Debug\NameApp.pdb
