@@ -1,0 +1,10 @@
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\bin\Debug\MuseumManager.exe.config
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\bin\Debug\MuseumManager.exe
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\bin\Debug\MuseumManager.pdb
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.csprojAssemblyReference.cache
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.Form1.resources
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.Properties.Resources.resources
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.csproj.GenerateResource.cache
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.csproj.CoreCompileInputs.cache
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.exe
+C:\Users\9352669\source\repos\MuseumManager\MuseumManager\obj\Debug\MuseumManager.pdb
