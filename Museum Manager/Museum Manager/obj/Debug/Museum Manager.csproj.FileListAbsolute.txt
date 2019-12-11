@@ -1,0 +1,21 @@
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.exe.config
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.exe
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.pdb
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum_Manager.Form1.resources
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum_Manager.Properties.Resources.resources
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.exe
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.pdb
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.exe.config
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.exe
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\bin\Debug\Museum Manager.pdb
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csprojAssemblyReference.cache
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum_Manager.Form1.resources
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum_Manager.Properties.Resources.resources
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csproj.GenerateResource.cache
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.csproj.CoreCompileInputs.cache
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.exe
+D:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum Manager.pdb
+F:\Programming2\Quarter2\Museum Manager\Museum Manager\obj\Debug\Museum_Manager.library.resources
