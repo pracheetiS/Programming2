@@ -1,0 +1,9 @@
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\bin\Debug\EnvironmentDemo.exe
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\bin\Debug\EnvironmentDemo.pdb
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.csprojAssemblyReference.cache
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.FrmEnvironment.resources
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.Properties.Resources.resources
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.csproj.GenerateResource.cache
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.csproj.CoreCompileInputs.cache
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.exe
+\\H0441SFS03\Home$\Students\9348446\Downloads\EnvironmentDemoFile (1)\EnvironmentDemo\obj\x86\Debug\EnvironmentDemo.pdb
