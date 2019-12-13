@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\bin\Debug\writeSomeText.exe.config
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\bin\Debug\writeSomeText.exe
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\bin\Debug\writeSomeText.pdb
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\obj\Debug\writeSomeText.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\obj\Debug\writeSomeText.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\obj\Debug\writeSomeText.exe
+F:\Programming2\Quarter2\writeSomeText\writeSomeText\obj\Debug\writeSomeText.pdb
