@@ -1,0 +1,10 @@
+F:\Programming2\Quarter2\string and char activities\string and char activities\bin\Debug\string and char activities.exe.config
+F:\Programming2\Quarter2\string and char activities\string and char activities\bin\Debug\string and char activities.exe
+F:\Programming2\Quarter2\string and char activities\string and char activities\bin\Debug\string and char activities.pdb
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string and char activities.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string_and_char_activities.Form1.resources
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string_and_char_activities.Properties.Resources.resources
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string and char activities.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string and char activities.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string and char activities.exe
+F:\Programming2\Quarter2\string and char activities\string and char activities\obj\Debug\string and char activities.pdb
