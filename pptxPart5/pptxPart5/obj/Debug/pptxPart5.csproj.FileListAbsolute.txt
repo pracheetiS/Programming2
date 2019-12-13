@@ -1,0 +1,7 @@
+E:\Programming II\pptxPart5\pptxPart5\bin\Debug\pptxPart5.exe.config
+E:\Programming II\pptxPart5\pptxPart5\bin\Debug\pptxPart5.exe
+E:\Programming II\pptxPart5\pptxPart5\bin\Debug\pptxPart5.pdb
+E:\Programming II\pptxPart5\pptxPart5\obj\Debug\pptxPart5.csprojAssemblyReference.cache
+E:\Programming II\pptxPart5\pptxPart5\obj\Debug\pptxPart5.csproj.CoreCompileInputs.cache
+E:\Programming II\pptxPart5\pptxPart5\obj\Debug\pptxPart5.exe
+E:\Programming II\pptxPart5\pptxPart5\obj\Debug\pptxPart5.pdb
