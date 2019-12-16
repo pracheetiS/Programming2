@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\bin\Debug\pptAssignment2.exe.config
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\bin\Debug\pptAssignment2.exe
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\bin\Debug\pptAssignment2.pdb
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\obj\Debug\pptAssignment2.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\obj\Debug\pptAssignment2.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\obj\Debug\pptAssignment2.exe
+F:\Programming2\Quarter2\pptAssignment2\pptAssignment2\obj\Debug\pptAssignment2.pdb
