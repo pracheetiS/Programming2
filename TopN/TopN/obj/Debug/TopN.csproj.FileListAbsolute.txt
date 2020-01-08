@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\TopN\TopN\bin\Debug\TopN.exe.config
+F:\Programming2\Quarter2\TopN\TopN\bin\Debug\TopN.exe
+F:\Programming2\Quarter2\TopN\TopN\bin\Debug\TopN.pdb
+F:\Programming2\Quarter2\TopN\TopN\obj\Debug\TopN.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\TopN\TopN\obj\Debug\TopN.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\TopN\TopN\obj\Debug\TopN.exe
+F:\Programming2\Quarter2\TopN\TopN\obj\Debug\TopN.pdb
