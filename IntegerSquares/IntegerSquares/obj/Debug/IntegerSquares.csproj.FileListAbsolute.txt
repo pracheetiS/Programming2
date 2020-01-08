@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.exe.config
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.exe
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.pdb
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.exe
+F:\Programming2\Quarter2\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.pdb
