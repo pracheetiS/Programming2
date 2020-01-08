@@ -1,0 +1,7 @@
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\bin\Debug\CountIntegers.exe.config
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\bin\Debug\CountIntegers.exe
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\bin\Debug\CountIntegers.pdb
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\obj\Debug\CountIntegers.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\obj\Debug\CountIntegers.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\obj\Debug\CountIntegers.exe
+F:\Programming2\Quarter2\CountIntegers\CountIntegers\obj\Debug\CountIntegers.pdb
