@@ -1,0 +1,10 @@
+E:\CP2\Bus Project\Bus Project\bin\Debug\Bus Project.exe.config
+E:\CP2\Bus Project\Bus Project\bin\Debug\Bus Project.exe
+E:\CP2\Bus Project\Bus Project\bin\Debug\Bus Project.pdb
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus Project.csprojAssemblyReference.cache
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus_Project.Form1.resources
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus_Project.Properties.Resources.resources
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus Project.csproj.GenerateResource.cache
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus Project.csproj.CoreCompileInputs.cache
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus Project.exe
+E:\CP2\Bus Project\Bus Project\obj\Debug\Bus Project.pdb
