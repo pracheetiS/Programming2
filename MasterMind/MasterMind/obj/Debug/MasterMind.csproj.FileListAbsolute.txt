@@ -1,0 +1,10 @@
+F:\Programming2\Quarter2\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+F:\Programming2\Quarter2\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+F:\Programming2\Quarter2\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+F:\Programming2\Quarter2\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
