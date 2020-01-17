@@ -1,0 +1,7 @@
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\bin\Debug\UserInputExC.exe.config
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\bin\Debug\UserInputExC.exe
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\bin\Debug\UserInputExC.pdb
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\obj\Debug\UserInputExC.csprojAssemblyReference.cache
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\obj\Debug\UserInputExC.csproj.CoreCompileInputs.cache
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\obj\Debug\UserInputExC.exe
+C:\Users\9352669\source\repos\UserInputExC\UserInputExC\obj\Debug\UserInputExC.pdb
