@@ -1,0 +1,10 @@
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\bin\Debug\GrabbleGame.exe.config
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\bin\Debug\GrabbleGame.exe
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\bin\Debug\GrabbleGame.pdb
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.csprojAssemblyReference.cache
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.frmGrabble.resources
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.Properties.Resources.resources
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.csproj.GenerateResource.cache
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.csproj.CoreCompileInputs.cache
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.exe
+C:\Users\9352669\source\repos\GrabbleGame\GrabbleGame\obj\Debug\GrabbleGame.pdb
